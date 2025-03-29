@@ -32,3 +32,9 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           LANG_COUNT: "10"
           SYMBOL_VERSION: "3"
+          SHOW_WORKING_TIME_RANGE: "True"
+          WORKING_TIME_RANGE_TEXT: |
+            清晨工作达人:5:00-12:00
+            全天无休战士:ALL
+            晚间编程客:18:00-24:00
+            深夜码农:0:00-5:00
