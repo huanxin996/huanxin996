@@ -94,10 +94,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
  Last Updated on 29/03/2025 07:38:35 UTC
 <!--END_SECTION:waka-->
 
-### 🎵 当前状态
-
-[![正在听](https://spotify-github-profile.vercel.app/api/view?uid=USER_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
 ### 📫 联系我
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mc.xiaolang@Foxmail.com)
@@ -106,8 +102,4 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/huanxin996/count.svg" />
-</p>
-
-<p align="center">
-  上次更新于: <b>2025年3月29日</b>
 </p>
