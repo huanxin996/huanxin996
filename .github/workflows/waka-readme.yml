@@ -26,26 +26,10 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "True"
-          LOCALE: "zh"
-          COMMIT_BY_TIME: "True"
-          SHOW_TOTAL: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          LANG_COUNT: "10"
-          SYMBOL_VERSION: "1"
-          SHOW_WORKING_TIME_RANGE: "True"
-          WORKING_TIME_RANGE_TEXT: |
-            清晨工作达人:5:00-12:00
-            全天无休战士:ALL
-            晚间编程客:18:00-24:00
-            深夜码农:0:00-5:00
-          DAY_NAMES: |
-            周日
-            周一
-            周二
-            周三
-            周四
-            周五
-            周六
-          MOST_PRODUCTIVE_DAY_TEXT: "%%DAY_NAME%%"
+          COMMIT_BY_ME: "True"
+          LOCALE: "zh"
+          SYMBOL_VERSION: "3"
           COMMIT_MESSAGE: "更新编程统计信息"
-          TIME_RANGE: "last_7_days"
+          UPDATED_DATE_FORMAT: "YYYY-MM-DD HH:mm:ss [UTC]"
