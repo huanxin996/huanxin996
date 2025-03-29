@@ -8,8 +8,6 @@
 
 ### 🎯 技术栈
 
-#### 主要语言
-
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 开发环境
@@ -18,8 +16,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ⏰ 编程时间统计
+<br/><br/><br/><br/><br/><br/>
 
+  
 [![GitHub 统计](https://github-readme-stats.vercel.app/api?username=huanxin996&show_icons=true&theme=tokyonight)](https://github.com/huanxin996)
 
 ### 📊 本周摸鱼统计
@@ -52,7 +51,7 @@
 
 **我是%%WORKING_TIME_RANGE%% ** 
 
-📅 **我在%%MOST_PRODUCTIVE_DAY%%最高产**
+**我在%%MOST_PRODUCTIVE_DAY%%最高产**
 
 **📅 每周分布** 
 

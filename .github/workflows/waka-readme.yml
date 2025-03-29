@@ -38,3 +38,12 @@ jobs:
             全天无休战士:ALL
             晚间编程客:18:00-24:00
             深夜码农:0:00-5:00
+          DAY_NAMES: |
+            周日
+            周一
+            周二
+            周三
+            周四
+            周五
+            周六
+          MOST_PRODUCTIVE_DAY_TEXT: "%%DAY_NAME%%"
