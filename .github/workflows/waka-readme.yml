@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 16,4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -31,4 +31,4 @@ jobs:
           COMMIT_BY_ME: "True"
           LOCALE: "zh"
           SYMBOL_VERSION: "1"
-          COMMIT_MESSAGE: "更新编程统计信息"
+          COMMIT_MESSAGE: "更新自述文件"
