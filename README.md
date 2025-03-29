@@ -25,70 +25,74 @@
 ### 📊 本周摸鱼统计
 
 <!--START_SECTION:waka-->
-![代码时间](http://img.shields.io/badge/已编程时长-%%TOTAL_CODING_TIME%%-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![访问统计](http://img.shields.io/badge/个人主页访问-%%PROFILE_VIEWS%%-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-13-blue)
 
-![代码量](https://img.shields.io/badge/代码总行数-%%TOTAL_LINES%%k-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-1.8%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
-**🏆 编程生涯** 
+**🐱 我的 GitHub 数据** 
 
-> 📝 今年贡献：%%YEAR_CONTRIBUTIONS%% 次
+> 📦  使用了 ? GitHub 存储空间 
  > 
-> 📦 代码容量：%%USED_STORAGE%% kB
+> 🏆 48 个贡献，在 2025 年
  > 
-> 💼 公开仓库：%%PUBLIC_REPOS%% 个
+> 🚫 不开放招聘
  > 
-> 🔑 私有仓库：%%PRIVATE_REPOS%% 个
-
-**⌚ 作息统计** 
-
-```text
-🌅 早上         %%MORNING_COMMITS%% 次提交   %%MORNING_PERCENT%%
-🌞 白天         %%DAYTIME_COMMITS%% 次提交   %%DAYTIME_PERCENT%%
-🌙 晚上         %%EVENING_COMMITS%% 次提交   %%EVENING_PERCENT%%
-🌚 深夜         %%NIGHT_COMMITS%% 次提交     %%NIGHT_PERCENT%%
-```
-
-**我是%%WORKING_TIME_RANGE%% ** 
-
-**📅 每周分布** 
+> 📜 6 个公共仓库 
+ > 
+> 🔑 0 个私人仓库 
+ > 
+**我是夜猫子 🦉** 
 
 ```text
-周一          %%MONDAY_COMMITS%% 次提交     %%MONDAY_PERCENT%%
-周二          %%TUESDAY_COMMITS%% 次提交    %%TUESDAY_PERCENT%%
-周三          %%WEDNESDAY_COMMITS%% 次提交  %%WEDNESDAY_PERCENT%%
-周四          %%THURSDAY_COMMITS%% 次提交   %%THURSDAY_PERCENT%%
-周五          %%FRIDAY_COMMITS%% 次提交     %%FRIDAY_PERCENT%%
-周六          %%SATURDAY_COMMITS%% 次提交   %%SATURDAY_PERCENT%%
-周日          %%SUNDAY_COMMITS%% 次提交     %%SUNDAY_PERCENT%%
+🌞 早晨                     32 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.88 % 
+🌆 白天                     44 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.47 % 
+🌃 傍晚                     48 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.33 % 
+🌙 晚上                     91 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.33 % 
 ```
-
-**💻 编程概览** 
+📅 **我最有效率是在 星期三** 
 
 ```text
-⌚ 时区: Asia/Shanghai
-
-📊 最常用语言: 
-%%LANGUAGE_LIST%%
-
-🔨 最常用工具: 
-%%EDITORS_LIST%%
-
-💪 项目投入: 
-%%PROJECTS_LIST%%
-
-🖥️ 操作系统: 
-%%OS_LIST%%
+星期一                      30 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.95 % 
+星期二                      14 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.51 % 
+星期三                      67 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.16 % 
+星期四                      60 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.91 % 
+星期五                      18 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.37 % 
+星期六                      17 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.91 % 
+星期日                      9 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.19 % 
 ```
 
-**📈 语言分布** 
+
+📊 **本周消耗时间** 
 
 ```text
-%%LANGUAGE_PER_REPO%%
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+本周没有记录到任何活动
+
+🔥 编辑器: 
+本周没有记录到任何活动
+
+🐱‍💻 项目: 
+本周没有记录到任何活动
+
+💻 操作系统: 
+本周没有记录到任何活动
 ```
 
-📅 **更新于:** %%LAST_UPDATED%%
+**我最常使用 Python** 
+
+```text
+Python                   10 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   90.91 % 
+TypeScript               1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.09 % 
+```
+
+
+
+
+ Last Updated on 29/03/2025 07:15:12 UTC
 <!--END_SECTION:waka-->
 
 ### 🎵 当前状态
