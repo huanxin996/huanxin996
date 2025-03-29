@@ -30,6 +30,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           COMMIT_BY_ME: "True"
           LOCALE: "zh"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "1"
           COMMIT_MESSAGE: "更新编程统计信息"
           UPDATED_DATE_FORMAT: "YYYY-MM-DD HH:mm:ss [UTC]"
