@@ -31,7 +31,7 @@ jobs:
           SHOW_TOTAL: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           LANG_COUNT: "10"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "1"
           SHOW_WORKING_TIME_RANGE: "True"
           WORKING_TIME_RANGE_TEXT: |
             清晨工作达人:5:00-12:00
@@ -47,3 +47,5 @@ jobs:
             周五
             周六
           MOST_PRODUCTIVE_DAY_TEXT: "%%DAY_NAME%%"
+          COMMIT_MESSAGE: "更新编程统计信息"
+          TIME_RANGE: "last_7_days"
