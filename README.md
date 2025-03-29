@@ -36,11 +36,9 @@
  > 
 > 🏆 53 个贡献，在 2025 年
  > 
-> 🚫 不开放招聘
- > 
 > 📜 6 个公共仓库 
  > 
-> 🔑 0 个私人仓库 
+> 🔑 ??? 个私人仓库 
  > 
 **我是夜猫子 🦉** 
 
@@ -93,10 +91,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 29/03/2025 08:05:02 UTC
 <!--END_SECTION:waka-->
-
-### 🎵 当前状态
-
-[![正在听](https://spotify-github-profile.vercel.app/api/view?uid=USER_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 ### 📫 联系我
 
