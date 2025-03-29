@@ -32,4 +32,3 @@ jobs:
           LOCALE: "zh"
           SYMBOL_VERSION: "1"
           COMMIT_MESSAGE: "更新编程统计信息"
-          UPDATED_DATE_FORMAT: "YYYY-MM-DD HH:mm:ss [UTC]"
