@@ -21,7 +21,7 @@
   
 [![GitHub 统计](https://github-readme-stats.vercel.app/api?username=huanxin996&show_icons=true&theme=tokyonight)](https://github.com/huanxin996)
 
-### 📊 本周摸鱼统计
+### 📊 摸鱼统计
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2011%20mins-blue)
