@@ -4,7 +4,13 @@
 
 > "一破写pyhon的底层人员"
 
+<br/>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanxin996&theme=tokyonight" />
+
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=huanxin996&show_icons=true&theme=tokyonight)](https://github.com/huanxin996)
+
+<br/>
 
 ### 🎯 技术栈
 
@@ -18,12 +24,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 
-<br/><br/><br/><br/><br/><br/>
-
-  
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=huanxin996&show_icons=true&theme=tokyonight)](https://github.com/huanxin996)
 
 ### 📊 摸鱼统计
 
