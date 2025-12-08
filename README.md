@@ -4,27 +4,24 @@
 
 > "一破写pyhon的底层人员"
 
-<br/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanxin996&theme=tokyonight" />
-
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=huanxin996&show_icons=true&theme=tokyonight)](https://github.com/huanxin996)
-
-<br/>
 
 ### 🎯 技术栈
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-Expert-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### 编程语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+#### 开发工具
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 #### 开发环境
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)  
 
 
 ### 📊 摸鱼统计
@@ -115,5 +112,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/huanxin996/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=huanxin996&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
