@@ -27,6 +27,8 @@
 ### 📊 摸鱼统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2048%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.58%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -68,24 +70,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
-Python                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Text                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-TOML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Markdown                 4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
+Python                   2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Text                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+TOML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-grok-sign-bot            3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.76 % 
-versions                 2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-common                   1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-CLIProxyAPI              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+grok-sign-bot            4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
+common                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+versions                 2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+ai_apireword             1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+CLIProxyAPI              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 操作系统: 
-Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -101,7 +103,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 06:13:13 UTC
+ Last Updated on 26/07/2026 06:33:14 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 联系我
