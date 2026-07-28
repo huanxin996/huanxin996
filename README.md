@@ -27,8 +27,6 @@
 ### 📊 摸鱼统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%2042%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.60%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -70,25 +68,31 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 6 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
-Python                   3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Text                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Markdown                 7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+Python                   3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Other                    2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+JSON                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Text                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 编辑器: 
-VS Code                  13 hrs 4 mins       ████████████████░░░░░░░░░   64.94 % 
-Claude Code              7 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.06 % 
+VS Code                  16 hrs 13 mins      █████████████████░░░░░░░░   68.53 % 
+Claude Code              7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
 
 🐱‍💻 项目: 
-grok-sign-bot            6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
-common                   2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-versions                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-ai_apireword             1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-mcxia                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+grok-sign-bot            6 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+common                   3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+versions                 2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Hx-email-back            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+ai_apireword             1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 💻 操作系统: 
-Windows                  20 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  23 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Python** 
@@ -104,7 +108,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 06:59:42 UTC
+ Last Updated on 28/07/2026 06:23:43 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 联系我
