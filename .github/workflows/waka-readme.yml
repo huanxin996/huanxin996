@@ -28,6 +28,8 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           COMMIT_BY_ME: "True"
           LOCALE: "zh"
