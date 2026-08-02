@@ -28,7 +28,7 @@
 ### 📊 摸鱼统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.60%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -71,25 +71,25 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-Python                   2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-JSON                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown                 4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Python                   2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+JSON                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+JavaScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 35 mins      ███████████████░░░░░░░░░░   58.69 % 
-Claude Code              7 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.31 % 
+VS Code                  9 hrs 33 mins       ██████████████░░░░░░░░░░░   56.19 % 
+Claude Code              7 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.81 % 
 
 🐱‍💻 项目: 
-grok-sign-bot            2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Work                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-common                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Hx-email-back            1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-ai_apireword             1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+sjhat                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Work                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+grok-sign-bot            1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Hx-email-back            1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+mcxia                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 💻 操作系统: 
-Windows                  18 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs              █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -105,7 +105,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 06:25:23 UTC
+ Last Updated on 02/08/2026 06:30:20 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 联系我
