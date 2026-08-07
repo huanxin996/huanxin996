@@ -28,8 +28,6 @@
 ### 📊 摸鱼统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2053%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.68%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -71,25 +69,25 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-TypeScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Rust                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Java                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Markdown                 7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Java                     7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+TypeScript               2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Rust                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔥 编辑器: 
-VS Code                  19 hrs 9 mins       █████████████████████░░░░   83.87 % 
-IntelliJ IDEA            3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+VS Code                  27 hrs 27 mins      ██████████████████████░░░   88.17 % 
+IntelliJ IDEA            3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 🐱‍💻 项目: 
-FurDevNet                3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-FurDev_Backend           2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-chunzai-work             2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-huajia                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-athuajia                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+QAuxiliary               9 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+FurDevNet                3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+FurDev_Backend           2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+chunzai-work             2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Work                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 💻 操作系统: 
-Windows                  22 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -105,7 +103,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 06:27:09 UTC
+ Last Updated on 07/08/2026 05:37:40 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 联系我
